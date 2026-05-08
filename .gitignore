@@ -1,0 +1,15 @@
+# Local environment variables
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+env/
+venv/
+ENV/
+
+# Bot storage files (don't commit these so production starts fresh)
+known_markets.json
+seen_notices.json

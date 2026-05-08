@@ -1,0 +1,7 @@
+import os
+from dotenv import load_dotenv
+
+# Load variables from .env file if it exists
+load_dotenv()
+
+# Rest of your imports and code...
